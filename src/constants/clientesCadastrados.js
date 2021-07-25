@@ -26,7 +26,7 @@ export const clientesCadastrados = [
     tipo: "Pessoa Jurídica",
     situacao: "Ativo",
     nome: "Empresa",
-    sobrenome: "Snow",
+    sobrenome: "Teste",
     documento: "12345678901",
     email: "teste@teste",
     telefone: "08007788",
